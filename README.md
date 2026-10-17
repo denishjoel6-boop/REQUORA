@@ -1,6 +1,6 @@
 # ReverseMarket
 
-A needs-first reverse marketplace where customers post requirements and providers submit offers. Built with React, Vite, TailwindCSS, and Supabase.
+Reverse marketplace is a place where customers post requirements and providers submit offers. Built with React, Vite, TailwindCSS, and Supabase.
 
 ## Features
 
